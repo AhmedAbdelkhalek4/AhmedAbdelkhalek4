@@ -31,7 +31,7 @@ Currently, I’m enhancing my skills in **medical data analysis**, **deep learni
 ### 📫 Contact  
 - 📧 Email: [ahmedabdelkhaleek16@gmail.com]  
 - 🔗 LinkedIn: [https://www.linkedin.com/in/ahmed-abdelkhaleek-86862b339?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BPYQ2SG69RS%2BvKELg9MlEEg%3D%3D]  
-- 💻 GitHub: [github.com/AhmedAbdelkhaleek](https://github.com/AhmedAbdelkhaleek)  
+- 💻 GitHub: [github.com/AhmedAbdelkhaleek](https://github.com/AhmedAbdelkhalek4)  
 
 ---
 
