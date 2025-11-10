@@ -21,10 +21,12 @@ Currently, I’m enhancing my skills in **medical data analysis**, **deep learni
 
 ### 📊 GitHub Stats  
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedAbdelkhaleek&show_icons=true&theme=default&hide_border=true" alt="Ahmed's GitHub Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedAbdelkhaleek&theme=default&hide_border=true" alt="Ahmed's GitHub Streak" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedAbdelkhalek4&show_icons=true&theme=transparent&hide_border=true" alt="Ahmed's GitHub Stats" height="150" />
+  <img src="https://streak-stats.demolab.com?user=AhmedAbdelkhalek4&theme=transparent&hide_border=true" alt="Ahmed's GitHub Streak" height="150" />
 </p>
+
 
 ---
 
